@@ -32,6 +32,36 @@ namespace Basic
             return relatedNumbers;
         }
 
+        public List<int> MultipleSum(List<int> numbers, int number)
+        {
+            List<int> result = new List<int>();
+            int sum = 0;
+            bool found = false;
+            for (int i=0; i<numbers.Count;i++)
+            {
+                for(int j=i;j<numbers.Count;j++)
+                {
+                    result.Add(numbers[j]);
+                    sum = sum + numbers[j];
+                    if(sum % number == 0 )
+                    {
+                        found = true;
+                        break;
+                    }
+                }
+                if (found == true)
+                {
+                    break;
+                }
+                else
+                {
+                    sum = 0;
+                    result = new List<int>();
+                }
+            }
+            return result;
+        }
+
         private int GetNumberDivisorSum(int number)
         {
             int sum = 0;

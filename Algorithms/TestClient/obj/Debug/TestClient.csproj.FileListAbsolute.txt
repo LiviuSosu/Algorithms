@@ -1,0 +1,10 @@
+C:\Users\liviu.sosu\Work\Projects\Alte proiecte personale\Algorithms\Algorithms\Algorithms\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\liviu.sosu\Work\Projects\Alte proiecte personale\Algorithms\Algorithms\Algorithms\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\liviu.sosu\Work\Projects\Alte proiecte personale\Algorithms\Algorithms\Algorithms\TestClient\bin\Debug\TestClient.exe
+C:\Users\liviu.sosu\Work\Projects\Alte proiecte personale\Algorithms\Algorithms\Algorithms\TestClient\bin\Debug\TestClient.pdb
+C:\Users\liviu.sosu\Work\Projects\Alte proiecte personale\Algorithms\Algorithms\Algorithms\TestClient\bin\Debug\Basic.dll
+C:\Users\liviu.sosu\Work\Projects\Alte proiecte personale\Algorithms\Algorithms\Algorithms\TestClient\bin\Debug\Basic.pdb
+C:\Users\liviu.sosu\Work\Projects\Alte proiecte personale\Algorithms\Algorithms\Algorithms\TestClient\obj\Debug\TestClient.exe
+C:\Users\liviu.sosu\Work\Projects\Alte proiecte personale\Algorithms\Algorithms\Algorithms\TestClient\obj\Debug\TestClient.pdb
+C:\Users\liviu.sosu\Work\Projects\Alte proiecte personale\Algorithms\Algorithms\Algorithms\TestClient\bin\Debug\AutoMapper.dll
+C:\Users\liviu.sosu\Work\Projects\Alte proiecte personale\Algorithms\Algorithms\Algorithms\TestClient\bin\Debug\AutoMapper.xml

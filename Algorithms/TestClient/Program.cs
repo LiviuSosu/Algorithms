@@ -1,9 +1,5 @@
 ﻿using Basic;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TestClient
 {
@@ -12,9 +8,8 @@ namespace TestClient
         static void Main(string[] args)
         {
             Numbers ba = new Numbers();
-
-            var c= ba.GetRelatedNumbers(2,100);
-
+            List<int> numbers = new List<int>() { 1,3,4,8,7};
+            var c= ba.MultipleSum(numbers, 5);
         }
     }
 }
