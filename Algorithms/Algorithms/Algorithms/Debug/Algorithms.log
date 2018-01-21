@@ -1,1 +1,3 @@
-﻿  Algorithms.vcxproj -> C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\Debug\Algorithms.exe
+﻿  Algorithms.cpp
+c:\users\lsosu\work\proiecte\personale\algorithms\repo\algorithms\algorithms\algorithms\numberofdigits.h(55): warning C4715: 'NumberOfDigits2': not all control paths return a value
+  Algorithms.vcxproj -> C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\Debug\Algorithms.exe

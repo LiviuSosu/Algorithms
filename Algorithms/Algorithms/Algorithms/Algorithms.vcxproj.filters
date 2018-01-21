@@ -22,6 +22,9 @@
     <Filter Include="Problems&amp;Excercises\Exercises\Other">
       <UniqueIdentifier>{4f810b1d-65b9-4b0f-8ccf-788cbbadcc75}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Problems&amp;Excercises\Exercises\UnidementionalArrays">
+      <UniqueIdentifier>{9fa3c016-8b6f-484e-82b3-f549c66d6096}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -35,6 +38,9 @@
     </ClInclude>
     <ClInclude Include="NumberOfDigits.h">
       <Filter>Problems&amp;Excercises\Exercises\Other</Filter>
+    </ClInclude>
+    <ClInclude Include="Sequences.h">
+      <Filter>Problems&amp;Excercises\Exercises\UnidementionalArrays</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
