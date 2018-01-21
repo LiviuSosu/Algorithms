@@ -1,5 +1,0 @@
-C:\Users\liviu.sosu\Work\Projects\Alte proiecte personale\Algorithms\Algorithms\Algorithms\Basic\bin\Debug\Basic.dll
-C:\Users\liviu.sosu\Work\Projects\Alte proiecte personale\Algorithms\Algorithms\Algorithms\Basic\bin\Debug\Basic.pdb
-C:\Users\liviu.sosu\Work\Projects\Alte proiecte personale\Algorithms\Algorithms\Algorithms\Basic\obj\Debug\Basic.csprojResolveAssemblyReference.cache
-C:\Users\liviu.sosu\Work\Projects\Alte proiecte personale\Algorithms\Algorithms\Algorithms\Basic\obj\Debug\Basic.dll
-C:\Users\liviu.sosu\Work\Projects\Alte proiecte personale\Algorithms\Algorithms\Algorithms\Basic\obj\Debug\Basic.pdb
