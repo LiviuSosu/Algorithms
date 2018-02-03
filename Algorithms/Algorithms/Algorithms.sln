@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algorithms", "Algorithms\Algorithms.vcxproj", "{247E283E-7FF7-4612-80CE-D14315D73513}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AlgorithmsTest", "AlgorithmsTest\AlgorithmsTest.vcxproj", "{AA0A671F-9A53-4761-9876-94DDF4E3ECF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,16 @@ Global
 		{247E283E-7FF7-4612-80CE-D14315D73513}.Release|x64.Build.0 = Release|x64
 		{247E283E-7FF7-4612-80CE-D14315D73513}.Release|x86.ActiveCfg = Release|Win32
 		{247E283E-7FF7-4612-80CE-D14315D73513}.Release|x86.Build.0 = Release|Win32
+		{AA0A671F-9A53-4761-9876-94DDF4E3ECF6}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{AA0A671F-9A53-4761-9876-94DDF4E3ECF6}.Debug|x64.ActiveCfg = Debug|x64
+		{AA0A671F-9A53-4761-9876-94DDF4E3ECF6}.Debug|x64.Build.0 = Debug|x64
+		{AA0A671F-9A53-4761-9876-94DDF4E3ECF6}.Debug|x86.ActiveCfg = Debug|Win32
+		{AA0A671F-9A53-4761-9876-94DDF4E3ECF6}.Debug|x86.Build.0 = Debug|Win32
+		{AA0A671F-9A53-4761-9876-94DDF4E3ECF6}.Release|Any CPU.ActiveCfg = Release|Win32
+		{AA0A671F-9A53-4761-9876-94DDF4E3ECF6}.Release|x64.ActiveCfg = Release|x64
+		{AA0A671F-9A53-4761-9876-94DDF4E3ECF6}.Release|x64.Build.0 = Release|x64
+		{AA0A671F-9A53-4761-9876-94DDF4E3ECF6}.Release|x86.ActiveCfg = Release|Win32
+		{AA0A671F-9A53-4761-9876-94DDF4E3ECF6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
