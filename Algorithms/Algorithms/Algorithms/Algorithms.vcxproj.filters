@@ -42,6 +42,12 @@
     <ClInclude Include="Sequences.h">
       <Filter>Problems&amp;Excercises\Exercises\UnidementionalArrays</Filter>
     </ClInclude>
+    <ClInclude Include="LongestSequenceMaxiumSum.h">
+      <Filter>Problems&amp;Excercises\Exercises\UnidementionalArrays</Filter>
+    </ClInclude>
+    <ClInclude Include="FibonacciDecomposition.h">
+      <Filter>Problems&amp;Excercises\Exercises\UnidementionalArrays</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

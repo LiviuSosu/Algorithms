@@ -148,6 +148,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="algo.h" />
+    <ClInclude Include="FibonacciDecomposition.h" />
+    <ClInclude Include="LongestSequenceMaxiumSum.h" />
     <ClInclude Include="NumberOfDigits.h" />
     <ClInclude Include="Sequences.h" />
     <ClInclude Include="stdafx.h" />
