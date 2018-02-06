@@ -25,6 +25,9 @@
     <Filter Include="Problems&amp;Excercises\Exercises\UnidementionalArrays">
       <UniqueIdentifier>{9fa3c016-8b6f-484e-82b3-f549c66d6096}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Problems&amp;Excercises\Exercises\BidimentionalArrays">
+      <UniqueIdentifier>{e7824cd5-98e2-49f5-8081-66f3ce4ed9ce}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -47,6 +50,9 @@
     </ClInclude>
     <ClInclude Include="FibonacciDecomposition.h">
       <Filter>Problems&amp;Excercises\Exercises\UnidementionalArrays</Filter>
+    </ClInclude>
+    <ClInclude Include="MatrixUtils.h">
+      <Filter>Problems&amp;Excercises\Exercises\BidimentionalArrays</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
