@@ -28,6 +28,9 @@
     <Filter Include="Problems&amp;Excercises\Exercises\BidimentionalArrays">
       <UniqueIdentifier>{e7824cd5-98e2-49f5-8081-66f3ce4ed9ce}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Problems&amp;Excercises\Exercises\Strings">
+      <UniqueIdentifier>{5ed58d85-2fce-480a-8ee7-26b221cfee53}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -53,6 +56,9 @@
     </ClInclude>
     <ClInclude Include="MatrixUtils.h">
       <Filter>Problems&amp;Excercises\Exercises\BidimentionalArrays</Filter>
+    </ClInclude>
+    <ClInclude Include="StringPeriod.h">
+      <Filter>Problems&amp;Excercises\Exercises\Strings</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
