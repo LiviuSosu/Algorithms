@@ -7,8 +7,98 @@
 #include <array>
 using namespace std;
 
-int Test() {
-	return 27;
+
+int matrix[5][5] = {
+	{ 1,2,1,3,2 },
+{ 4,5,6,7,8 },
+{ 2,1,6,2,3 },
+{ 5,2,1,3,2 },
+{ 1,2,6,1,3 }
+};
+int n = 5;
+
+//sum of elements on principal diagonal
+int Sum1() {
+	int sum = 0;
+	for (int i = 0; i < n; i++) {
+		for (int j = 0; j < n; j++) {
+			if (i == j)
+			{
+				sum += matrix[i][j];
+			}
+		}
+	}
+	return sum;
+}
+
+//sum of elements on secondary diagonal
+int Sum2() {
+	int sum = 0;
+	for (int i = 0; i < n; i++) {
+		for (int j = 0; j < n; j++) {
+			if (i+1==n-j)
+			{
+				sum += matrix[i][j];
+			}
+		}
+	}
+	return sum;
+}
+
+//sum of elements above elements on principal diagonal
+int Sum3() {
+	int sum = 0;
+	for (int i = 0; i < n; i++) {
+		for (int j = 0; j < n; j++) {
+			if (j-i>=1)
+			{
+				sum += matrix[i][j];
+			}
+		}
+	}
+	return sum;
+}
+
+//sum of elements bellow on principal diagonal
+int Sum4() {
+	int sum = 0;
+	for (int i = 0; i < n; i++) {
+		for (int j = 0; j < n; j++) {
+			if (i - j >= 1)
+			{
+				sum += matrix[i][j];
+			}
+		}
+	}
+	return sum;
+}
+
+//sum of elements above on secondary diagonal
+int Sum5() {
+	int sum = 0;
+	for (int i = 0; i < n; i++) {
+		for (int j = 0; j < n; j++) {
+			if (j<=n-i-2)
+			{
+				sum += matrix[i][j];
+			}
+		}
+	}
+	return sum;
+}
+
+//sum of elements bellow on secondary diagonal
+int Sum6() {
+	int sum = 0;
+	for (int i = 0; i < n; i++) {
+		for (int j = n-1; j > 0; j--) {
+			if (i+j>n-1)
+			{
+				sum += matrix[i][j];
+			}
+		}
+	}
+	return sum;
 }
 
 array<int, 5> fillarr(int arr[])
