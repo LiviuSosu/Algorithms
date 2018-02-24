@@ -39,9 +39,6 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="algo.h">
-      <Filter>Problems&amp;Excercises</Filter>
-    </ClInclude>
     <ClInclude Include="NumberOfDigits.h">
       <Filter>Problems&amp;Excercises\Exercises\Other</Filter>
     </ClInclude>
@@ -59,6 +56,12 @@
     </ClInclude>
     <ClInclude Include="StringPeriod.h">
       <Filter>Problems&amp;Excercises\Exercises\Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="LastDigit.h">
+      <Filter>Problems&amp;Excercises\Exercises\Other</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>Problems&amp;Excercises</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

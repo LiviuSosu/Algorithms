@@ -147,8 +147,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="algo.h" />
+    <ClInclude Include="Utils.h" />
     <ClInclude Include="FibonacciDecomposition.h" />
+    <ClInclude Include="LastDigit.h" />
     <ClInclude Include="LongestSequenceMaxiumSum.h" />
     <ClInclude Include="MatrixUtils.h" />
     <ClInclude Include="NumberOfDigits.h" />
