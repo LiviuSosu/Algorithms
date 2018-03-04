@@ -147,6 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Fishing.h" />
     <ClInclude Include="Utils.h" />
     <ClInclude Include="FibonacciDecomposition.h" />
     <ClInclude Include="LastDigit.h" />

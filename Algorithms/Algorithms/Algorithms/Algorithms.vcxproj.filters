@@ -31,6 +31,9 @@
     <Filter Include="Problems&amp;Excercises\Exercises\Strings">
       <UniqueIdentifier>{5ed58d85-2fce-480a-8ee7-26b221cfee53}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Problems&amp;Excercises\Problems">
+      <UniqueIdentifier>{d69d437b-5045-4ecd-aa37-7efe9b9488c9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -62,6 +65,9 @@
     </ClInclude>
     <ClInclude Include="Utils.h">
       <Filter>Problems&amp;Excercises</Filter>
+    </ClInclude>
+    <ClInclude Include="Fishing.h">
+      <Filter>Problems&amp;Excercises\Problems</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
