@@ -6,18 +6,51 @@ namespace Problems.HouseNumbers
 {
     class SevethDay
     {
-        public int Method2(int n)
+        public int NewNumber(int n)
         {
-            int rot = n / 9;
-            int rot2 = n % 9;
+            int result = 0;
+            int curr_max = MaxDigit(n);
 
-
-            string result="";
-            for(int i = 0;i<=rot+1;i++)
+            int finalResult=n;
+    
+            while (finalResult > 10)
             {
-                result += (rot2 ).ToString();
+                int copy = finalResult;
+                finalResult = 0;
+                while (copy > 0)
+                {
+                    int h = copy % 10;
+                    result = result * 10 + curr_max - h;
+                    copy = copy / 10;
+                }
+
+                curr_max = MaxDigit(result);
+                finalResult = result;
+                if (finalResult %10 ==0)
+                {
+                    finalResult = finalResult / 10;
+                }
+                result = 0;
             }
-            return 0;
+
+            return finalResult;
+        }
+
+        public int MaxDigit (int number)
+        {
+            int maxDigit = number % 10;
+            while (number>0)
+            {
+                int aux = number % 10;
+                if(aux>maxDigit)
+                {
+                    maxDigit = aux;
+                }
+
+                number = number / 10;
+            }
+
+            return maxDigit;
         }
     }
 }

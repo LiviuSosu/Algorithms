@@ -38,10 +38,6 @@ namespace Problems.Soldiers
                 group.Add(list[i]);
                 group.Add(list[list.Count-1-i]);
             }
-            //for (int i = list.Count - 1; i >= (list.Count / 2); i--)
-            //{
-                
-            //}
 
             return group;
         }

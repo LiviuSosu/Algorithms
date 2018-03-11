@@ -6,19 +6,11 @@ namespace Problems.HouseNumbers
 {
     class ThirdDay
     {
-        public int Method1(int input, int rotations = 4)
+        public string Method1(string input, int rotations)
         {
-            int[] num = { 3, 2, 2, 4, 5 };
-
-            int rot2 = num.Length % rotations;
-            for(int i=0;i<rot2;i++)
-            {
-                int aux = num[i];
-                num[i] = num[num.Length-i-1];
-                num[num.Length - i-1] = aux;
-            }
-
-            return input;
+            int rot2 = rotations - (input.Length % rotations);
+            string result = input.Substring(rot2 ) + input.Substring(0, rot2);
+            return result;
         }
     }
 }
