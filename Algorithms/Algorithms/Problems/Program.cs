@@ -28,9 +28,29 @@ namespace Problems
             //Overlap ov = new Overlap();
             //List<int> param = new List<int>() { 0,0,0,2,2,2,3,1,1,1,0,0,0,2,2,2,3,1,1,1,0,0,0 };
             //ov.ov(param);
-            Translate tr = new Translate();
-            var c = tr.Tra("Ana has many mere dar she is going to the piata to vanda them");
+            //Translate tr = new Translate();
+            //var c = tr.Tra("Ana has many mere dar she is going to the piata to vanda them");
+            string x = "";
+            rec("43881796",5,x);
             Console.WriteLine("Hello World!");
+        }
+
+        static void rec(string nr, int p,  string result)
+        {
+            int max;
+           if(p>0)
+            {
+                max = 1;
+                for(int i=2; i<8 - p +1;i++) //??
+                {
+                    if (nr[i]>nr[max])
+                    {
+                        max = 1;
+                    }
+                }
+                result = result + nr[max];
+                rec(nr, p - 1, result);
+            }
         }
     }
 }
