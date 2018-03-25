@@ -1,0 +1,7 @@
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\Grapfs\bin\Debug\Grapfs.exe.config
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\Grapfs\bin\Debug\Grapfs.exe
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\Grapfs\bin\Debug\Grapfs.pdb
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\Grapfs\obj\Debug\Grapfs.csprojResolveAssemblyReference.cache
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\Grapfs\obj\Debug\Grapfs.csproj.CoreCompileInputs.cache
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\Grapfs\obj\Debug\Grapfs.exe
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\Grapfs\obj\Debug\Grapfs.pdb
