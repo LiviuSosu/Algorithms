@@ -30,9 +30,23 @@ namespace Problems
             //ov.ov(param);
             //Translate tr = new Translate();
             //var c = tr.Tra("Ana has many mere dar she is going to the piata to vanda them");
-            string x = "";
-            rec("43881796",5,x);
-            Console.WriteLine("Hello World!");
+            //string x = "";
+            //rec("43881796",5,x);
+
+            Recursion.Recursion recursion = new Recursion.Recursion();
+            string str = "hat";
+            char[] arr = str.ToCharArray();
+            recursion.GetPer(arr);
+
+            //Recursion.Queens queens = new Recursion.Queens();
+            //int N = Convert.ToInt32(Console.ReadLine());
+            //int[,] board = new int[N, N];
+            //if (!queens.theBoardSolver(board, 0))
+            //{
+            //    Console.WriteLine("Solution not found.");
+            //}
+            //queens.printBoard(board);
+            Console.ReadLine();
         }
 
         static void rec(string nr, int p,  string result)
