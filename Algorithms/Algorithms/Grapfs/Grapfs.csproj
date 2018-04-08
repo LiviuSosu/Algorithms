@@ -45,12 +45,19 @@
     <Compile Include="Breadth.cs" />
     <Compile Include="DFS.cs" />
     <Compile Include="Graph.cs" />
+    <Compile Include="Kruskal\KEdge.cs" />
+    <Compile Include="Kruskal\KGraph.cs" />
+    <Compile Include="Kruskal\KSubsets.cs" />
+    <Compile Include="Kruskal\KVertex.cs" />
     <Compile Include="Prim_sAlgorithm.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Kruskal\calling.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
