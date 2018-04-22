@@ -5,3 +5,11 @@ C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\Gra
 C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\Grapfs\obj\Debug\Grapfs.csproj.CoreCompileInputs.cache
 C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\Grapfs\obj\Debug\Grapfs.exe
 C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\Grapfs\obj\Debug\Grapfs.pdb
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\Grapfs\bin\Debug\QuickGraph.Data.dll
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\Grapfs\bin\Debug\QuickGraph.dll
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\Grapfs\bin\Debug\QuickGraph.Graphviz.dll
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\Grapfs\bin\Debug\QuickGraph.Serialization.dll
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\Grapfs\bin\Debug\QuickGraph.xml
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\Grapfs\bin\Debug\QuickGraph.Data.xml
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\Grapfs\bin\Debug\QuickGraph.Graphviz.xml
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\Grapfs\bin\Debug\QuickGraph.Serialization.xml
