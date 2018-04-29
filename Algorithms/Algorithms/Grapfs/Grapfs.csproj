@@ -55,7 +55,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BellmanFord\Path.cs" />
+    <Compile Include="Biconnected\Biconnected.cs" />
     <Compile Include="Breadth.cs" />
+    <Compile Include="Bridge\Bridge.cs" />
     <Compile Include="CriticalNodes\DictionaryNode.cs" />
     <Compile Include="CriticalNodes\DictionaryNodeRoot.cs" />
     <Compile Include="Cycles\TarjanCycleDetectStack.cs" />
@@ -80,5 +82,6 @@
   <ItemGroup>
     <Content Include="Kruskal\calling.txt" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
