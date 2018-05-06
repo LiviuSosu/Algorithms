@@ -35,12 +35,16 @@ namespace Grapfs.Cycles
         public override bool Equals(object obj)
         {
             if (obj == null)
+            {
                 return false;
+            }
 
             Vertex other = obj as Vertex;
 
             if (other == null)
+            {
                 return false;
+            }
 
             return Id == other.Id;
         }

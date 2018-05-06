@@ -17,9 +17,5 @@ namespace Grapfs.Kruskal
             V2 = dest;
             weight = wt;
         }
-        public KEdge()
-        {
-
-        }
     }
 }

@@ -33,10 +33,10 @@ namespace Problems
             //string x = "";
             //rec("43881796",5,x);
 
-            Recursion.Recursion recursion = new Recursion.Recursion();
-            string str = "hat";
-            char[] arr = str.ToCharArray();
-            recursion.GetPer(arr);
+            //Recursion.Recursion recursion = new Recursion.Recursion();
+            //string str = "hat";
+            //char[] arr = str.ToCharArray();
+            //recursion.GetPer(arr);
 
             //Recursion.Queens queens = new Recursion.Queens();
             //int N = Convert.ToInt32(Console.ReadLine());
@@ -46,6 +46,8 @@ namespace Problems
             //    Console.WriteLine("Solution not found.");
             //}
             //queens.printBoard(board);
+            XII.Numbers numbers = new XII.Numbers();
+            numbers.GetNumber(4);
             Console.ReadLine();
         }
 
