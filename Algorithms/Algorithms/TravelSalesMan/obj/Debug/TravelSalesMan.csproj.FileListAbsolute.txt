@@ -1,0 +1,6 @@
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\TravelSalesMan\bin\Debug\TravelSalesMan.exe.config
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\TravelSalesMan\bin\Debug\TravelSalesMan.exe
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\TravelSalesMan\bin\Debug\TravelSalesMan.pdb
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\TravelSalesMan\obj\Debug\TravelSalesMan.csproj.CoreCompileInputs.cache
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\TravelSalesMan\obj\Debug\TravelSalesMan.exe
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\TravelSalesMan\obj\Debug\TravelSalesMan.pdb
