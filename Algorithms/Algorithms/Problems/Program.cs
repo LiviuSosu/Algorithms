@@ -48,7 +48,6 @@ namespace Problems
             //queens.printBoard(board);
             XII.Numbers numbers = new XII.Numbers();
             numbers.GetNumber(4);
-            Console.ReadLine();
         }
 
         static void rec(string nr, int p,  string result)
