@@ -1,0 +1,7 @@
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\QueensProblem\bin\Debug\QueensProblem.exe.config
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\QueensProblem\bin\Debug\QueensProblem.exe
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\QueensProblem\bin\Debug\QueensProblem.pdb
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\QueensProblem\obj\Debug\QueensProblem.csprojResolveAssemblyReference.cache
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\QueensProblem\obj\Debug\QueensProblem.csproj.CoreCompileInputs.cache
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\QueensProblem\obj\Debug\QueensProblem.exe
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\QueensProblem\obj\Debug\QueensProblem.pdb
