@@ -46,8 +46,17 @@ namespace Problems
             //    Console.WriteLine("Solution not found.");
             //}
             //queens.printBoard(board);
-            XII.Numbers numbers = new XII.Numbers();
-            numbers.GetNumber(4);
+            //XII.Numbers numbers = new XII.Numbers();
+            //numbers.GetNumber(4);
+            //HanoiTowers.Hanoi h = new HanoiTowers.Hanoi();
+            //char startPeg = 'A'; // start tower in output
+            //char endPeg = 'C'; // end tower in output
+            //char tempPeg = 'B'; // temporary tower in output
+            //int totalDisks = 5; // number of disks
+            //h.solveTowers(totalDisks, startPeg, endPeg, tempPeg);
+
+            EuclidAlgorithm.Euclid euclid = new EuclidAlgorithm.Euclid();
+            var euclidResult = euclid.Extended_GCD(30,40);
         }
 
         static void rec(string nr, int p,  string result)
