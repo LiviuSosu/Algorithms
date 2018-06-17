@@ -1,0 +1,7 @@
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\StringMatching\bin\Debug\StringMatching.exe.config
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\StringMatching\bin\Debug\StringMatching.exe
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\StringMatching\bin\Debug\StringMatching.pdb
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\StringMatching\obj\Debug\StringMatching.csprojResolveAssemblyReference.cache
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\StringMatching\obj\Debug\StringMatching.csproj.CoreCompileInputs.cache
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\StringMatching\obj\Debug\StringMatching.exe
+C:\Users\lsosu\Work\Proiecte\Personale\Algorithms\Repo\Algorithms\Algorithms\StringMatching\obj\Debug\StringMatching.pdb
