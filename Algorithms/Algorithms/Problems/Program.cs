@@ -55,8 +55,10 @@ namespace Problems
             //int totalDisks = 5; // number of disks
             //h.solveTowers(totalDisks, startPeg, endPeg, tempPeg);
 
-            EuclidAlgorithm.Euclid euclid = new EuclidAlgorithm.Euclid();
-            var euclidResult = euclid.Extended_GCD(30,40);
+            //EuclidAlgorithm.Euclid euclid = new EuclidAlgorithm.Euclid();
+            //var euclidResult = euclid.Extended_GCD(30,40);
+            Encoding.Encoding encoding = new Encoding.Encoding();
+            encoding.Coding();
         }
 
         static void rec(string nr, int p,  string result)
