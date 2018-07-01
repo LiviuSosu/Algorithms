@@ -58,7 +58,10 @@ namespace Problems
             //EuclidAlgorithm.Euclid euclid = new EuclidAlgorithm.Euclid();
             //var euclidResult = euclid.Extended_GCD(30,40);
             Encoding.Encoding encoding = new Encoding.Encoding();
-            encoding.Coding();
+            //var c = encoding.EncodingChart();
+            string alpfabet = "abcde";
+            var c = encoding.ChopString(alpfabet);
+           
         }
 
         static void rec(string nr, int p,  string result)
