@@ -60,7 +60,7 @@ namespace Problems
             Encoding.Encoding encoding = new Encoding.Encoding();
             //var c = encoding.EncodingChart();
             string alpfabet = "abcde";
-            var c = encoding.ChopString(alpfabet);
+            encoding.Coding();
            
         }
 
