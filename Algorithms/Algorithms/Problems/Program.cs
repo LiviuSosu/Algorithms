@@ -59,7 +59,7 @@ namespace Problems
             //var euclidResult = euclid.Extended_GCD(30,40);
             Encoding.Encoding encoding = new Encoding.Encoding();
             //var c = encoding.EncodingChart();
-            string alpfabet = "abcde";
+            string alpfabet = "abcdefghijklmnopqrstuvwxyz";
             encoding.Coding();
            
         }

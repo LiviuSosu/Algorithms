@@ -138,6 +138,31 @@ namespace Problems.Encoding
 
             list1.Sort();
             list2.Sort();
+            list3.Sort();
+            list4.Sort();
+            list5.Sort();
+            list6.Sort();
+            list7.Sort();
+            list8.Sort();
+            list9.Sort();
+            list10.Sort();
+            list11.Sort();
+            list12.Sort();
+            list13.Sort();
+            list14.Sort();
+            list15.Sort();
+            list16.Sort();
+            list17.Sort();
+            list18.Sort();
+            list19.Sort();
+            list20.Sort();
+            list21.Sort();
+            list22.Sort();
+            list23.Sort();
+            list24.Sort();
+            list25.Sort();
+            list26.Sort();
+            list27.Sort();
 
             Dictionary<int, string> result = new Dictionary<int, string>();
             int key = 1;
@@ -159,6 +184,155 @@ namespace Problems.Encoding
                 key++;
             }
 
+            foreach (string code in list4)
+            {
+                result.Add(key, code);
+                key++;
+            }
+
+            foreach (string code in list5)
+            {
+                result.Add(key, code);
+                key++;
+            }
+
+            foreach (string code in list6)
+            {
+                result.Add(key, code);
+                key++;
+            }
+
+
+            foreach (string code in list7)
+            {
+                result.Add(key, code);
+                key++;
+            }
+
+
+            foreach (string code in list8)
+            {
+                result.Add(key, code);
+                key++;
+            }
+
+
+            foreach (string code in list9)
+            {
+                result.Add(key, code);
+                key++;
+            }
+
+            foreach (string code in list10)
+            {
+                result.Add(key, code);
+                key++;
+            }
+
+            foreach (string code in list11)
+            {
+                result.Add(key, code);
+                key++;
+            }
+
+            foreach (string code in list12)
+            {
+                result.Add(key, code);
+                key++;
+            }
+
+            foreach (string code in list13)
+            {
+                result.Add(key, code);
+                key++;
+            }
+
+            foreach (string code in list14)
+            {
+                result.Add(key, code);
+                key++;
+            }
+
+            foreach (string code in list15)
+            {
+                result.Add(key, code);
+                key++;
+            }
+
+            foreach (string code in list16)
+            {
+                result.Add(key, code);
+                key++;
+            }
+
+            foreach (string code in list17)
+            {
+                result.Add(key, code);
+                key++;
+            }
+
+
+            foreach (string code in list18)
+            {
+                result.Add(key, code);
+                key++;
+            }
+
+            foreach (string code in list19)
+            {
+                result.Add(key, code);
+                key++;
+            }
+
+            foreach (string code in list20)
+            {
+                result.Add(key, code);
+                key++;
+            }
+
+            foreach (string code in list21)
+            {
+                result.Add(key, code);
+                key++;
+            }
+
+            foreach (string code in list22)
+            {
+                result.Add(key, code);
+                key++;
+            }
+
+            foreach (string code in list23)
+            {
+                result.Add(key, code);
+                key++;
+            }
+
+            foreach (string code in list24)
+            {
+                result.Add(key, code);
+                key++;
+            }
+
+            foreach (string code in list25)
+            {
+                result.Add(key, code);
+                key++;
+            }
+
+            foreach (string code in list26)
+            {
+                result.Add(key, code);
+                key++;
+            }
+
+            foreach (string code in list27)
+            {
+                result.Add(key, code);
+                key++;
+            }
+
+            //var test = result[83681];
             return result;
         }
 
