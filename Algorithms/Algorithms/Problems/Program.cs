@@ -1,4 +1,5 @@
 ﻿using Problems.Array;
+using Problems.Fibonnaci;
 using Problems.HouseNumbers;
 using Problems.Numbers;
 using System;
@@ -57,11 +58,15 @@ namespace Problems
 
             //EuclidAlgorithm.Euclid euclid = new EuclidAlgorithm.Euclid();
             //var euclidResult = euclid.Extended_GCD(30,40);
-            Encoding.Encoding encoding = new Encoding.Encoding();
+            //Encoding.Encoding encoding = new Encoding.Encoding();
             //var c = encoding.EncodingChart();
-            string alpfabet = "abcdefghijklmnopqrstuvwxyz";
-            encoding.Coding();
-           
+            //string alpfabet = "abcdefghijklmnopqrstuvwxyz";
+            //encoding.Coding();
+            //Index index = new Index();
+            //var result = index.ReturnIndex(5);
+
+            Burrows_Wheeler.BW_Encoding bW_Encoding = new Burrows_Wheeler.BW_Encoding();
+            bW_Encoding.Encoding("GINFO");
         }
 
         static void rec(string nr, int p,  string result)
